@@ -5,4 +5,4 @@ Bouw een spaarrekening class waarmee je het volgende kunt:
 - Geld storten
 - Saldo bekijken
 
-[Opdracht 1.3 Saldo bewaren](https://bitbucket.org/Luc_Meijer/bit-roc-assignments/src/126e00d8d04dd3677c08c27a10b1c56129d9afd0/Opdracht1.03.md?at=master&fileviewer=file-view-default)
+[Opdracht 1.3 Saldo bewaren](https://bitbucket.org/Luc_Meijer/bit-roc-assignments/src/master/Opdracht1.03.md?at=master&fileviewer=file-view-default)
