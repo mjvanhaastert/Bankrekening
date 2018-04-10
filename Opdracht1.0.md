@@ -6,4 +6,4 @@
 In de opdracht.md bestanden worden diverse onderdelen van de opdracht uitgelegd. De opdracht nemen de vorm aan van product requirements waar je code aan dient te voldoen.
 Als je niet uit een opdracht komt, vraag dan hulp aan je medestudenten.
 
-[Opdracht 1.1](https://bitbucket.org/Luc_Meijer/bit-roc-assignments/src/0e576e8fa8829fd903a68b9ef03da76b706fe2e6/Opdracht1.1md?at=master&fileviewer=file-view-default)
+[Opdracht 1.1](https://bitbucket.org/Luc_Meijer/bit-roc-assignments/src/master/Opdracht1.1md?at=master&fileviewer=file-view-default)
